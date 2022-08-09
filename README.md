@@ -24,6 +24,8 @@ In this homework activity, you will use all the skills you have learned until no
 The first will be a personal finance planner that will allow users to visualize their savings composed by investments in shares and cryptocurrencies to assess if they have enough money as an emergency fund.
 The second tool will be a retirement planning tool that will use the Alpaca API to fetch historical closing prices for a retirement portfolio composed of stocks and bonds, then run Monte Carlo simulations to project the portfolio performance at 30 years. You will then use the Monte Carlo data to calculate the expected portfolio returns given a specific initial investment amount.
 
+[Back to Table of Contents](#Table-of-Contents)
+
 ## Navigating the GitHub
 
 In the Images folder, you will find a collection of the plots made using the code.
@@ -38,6 +40,7 @@ In the Worked_Code folder you will find:
 - [MCForecastTools.py](https://github.com/RPSangil/HW-5-APIs/blob/41d60a9009280ed442a5191559990de340cae685/Worked_Code/MCForecastTools.py)
 - [Financial Planner Notebook](https://github.com/RPSangil/HW-5-APIs/blob/9742b1fbc815defc94a9dda43611bc4ffe562221/Worked_Code/financial-planner.ipynb) - The code I have written for this notebook.
 
+[Back to Table of Contents](#Table-of-Contents)
 
 ## Important Notice
 
@@ -64,6 +67,8 @@ In the Worked_Code folder you will find:
 - Your current total is $141976.12.
 - Your current savings health is +$105976.12.
 
+[Back to Table of Contents](#Table-of-Contents)
+
 ## Part 2 - Retirement Planning
 
 ### Monte Carlo Simulation
@@ -85,6 +90,8 @@ In the Worked_Code folder you will find:
 There is a 95% chance that an initial investment of $20000.00 in the portfolio over the next 30 years will end within in the range of $55456.17 and $496546.21.
 
 There is a 95% chance that an initial investment of $30000.00 in the portfolio over the next 30 years will end within in the range of $83184.25 and $744819.32.
+
+[Back to Table of Contents](#Table-of-Contents)
 
 ## Part 3 OPTIONAL - Early Retirement
 
@@ -119,3 +126,5 @@ There is a 95% chance that an initial investment of $20000.00 in the portfolio o
 ![10yr : Summary Statistics from the Monte Carlo Simulation Results](https://github.com/RPSangil/HW-5-APIs/blob/8c1930d221f7c07f1459346441635439c5cb7e7b/Images/Ten%20Year%20Retirement%20Option%20-%20Summary%20Statistics%20from%20the%20Monte%20Carlo%20Simulation%20Results.PNG)
 
 There is a 95% chance that an initial investment of $20000.00 in the portfolio over the next 10 years will end within in the range of $20142.63 and $69556.30.
+
+[Back to Table of Contents](#Table-of-Contents)
